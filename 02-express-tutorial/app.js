@@ -1,3 +1,5 @@
+//* npm start
+
 const express = require("express");
 const { products } = require("./data");
 const app = express();
